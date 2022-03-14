@@ -20,7 +20,7 @@ AccessKey为API 访问密钥，SecretKey为用户对请求进行签名的密钥�
 
 <b>示例</b>
 
- [Java](https://github.com/newbittrade/openapi/blob/master/ApiDemo.java)  | [Python3](https://github.com/newbittrade/openapi/blob/master/ApiDemo.py) |  [Php](https://github.com/newbittrade/openapi/blob/master/Demo.php)
+ [Java](https://github.com/newbittrade/openapi//tree/main/blob/ApiDemo.java)  | [Python3](https://github.com/newbittrade/openapi/tree/main/blob/ApiDemo.py) |  [Php](https://github.com/newbittrade/openapi//tree/main/blob/Demo.php)
 
 
 ### 合法请求结构
