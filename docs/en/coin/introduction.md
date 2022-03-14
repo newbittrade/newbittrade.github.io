@@ -24,7 +24,7 @@ AccessKey is the access key to API,SecretKey is the secret key of user signature
 
 <b>Demo</b>
 
- [Java](https://github.com/newbittrade/openapi/blob/master/ApiDemo.java)  | [Python3](https://github.com/newbittrade/openapi/blob/master/ApiDemo.py) |  [Php](https://github.com/newbittrade/openapi/blob/master/Demo.php)
+ [Java](https://github.com/newbittrade/openapi//tree/main/blob/ApiDemo.java)  | [Python3](https://github.com/newbittrade/openapi//tree/main/blob/ApiDemo.py) |  [Php](https://github.com/newbittrade/openapi//tree/main/blob/Demo.php)
 
 
 ### Legal request structure
