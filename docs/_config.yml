@@ -56,4 +56,4 @@ readme_index:
 #   - vendor/gems/
 #   - vendor/ruby/
 # https://yuyeleng.github.io/yuye.github.io/assets/img/logo.png
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
